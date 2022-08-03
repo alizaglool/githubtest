@@ -16,6 +16,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         <#code#>
     }
+    func Ali () {
+        
+        
+    }
 
 
 }
