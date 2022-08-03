@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         
         
     }
+    func Ali2 () {
+        
+        
+    }
 
 
 }
